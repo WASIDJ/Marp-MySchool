@@ -10,20 +10,15 @@
 │   └── OUTPUT // Marp生成的PPT输出目录
 ├── README.md
 ├── skills-lock.json
-└── themes // Marp PPT主题目录
-    ├── am_blue.scss
-    ├── am_brown.scss
-    ├── am_dark.scss
-    ├── am_green.scss
-    ├── am_purple.scss
-    ├── am_red.scss
-    └── am_template.scss
-```
-
-  
-  
- 
-
- 
- 
-
+├── themes // Marp PPT主题目录
+│   ├── am_blue.scss
+│   ├── am_brown.scss
+│   ├── am_dark.scss
+│   ├── am_green.scss
+│   ├── am_purple.scss
+│   ├── am_red.scss
+│   └── am_template.scss
+└── .opencode
+    └── agents
+        └── MarpAssistant.md // Marp幻灯片创建助手代理
+```@
