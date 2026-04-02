@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "marp-slide": {
+      "source": "davila7/claude-code-templates",
+      "sourceType": "github",
+      "computedHash": "42753e00eb85f622112d9ca1dadc3012a514c6e3fef70ee4c3d9cd9164fb6ebc"
+    }
+  }
+}
